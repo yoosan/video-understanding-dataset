@@ -4,11 +4,11 @@
 
 Dataset | Paper | Website | Category | #Examples |#Classes | Duration | Organizer | SOTA performance
 --------|-------|---------|----------|-----------|---------|----------|-----------|-----------------
-UCF101  | [PDF][p1] | [Link][l1] | human action | 13,320 | 101 | <10s    | UCF       | 98% (DeepMind I3D)
-HMDB51  | [PDF][p2] | [Link][l2] | human action | 6,766 | 51 | <10s    | SERRE LAB, Brown | -
-ActivityNet| [PDF][p8] | [Link][l8] | human activities | ~20,000 | 200 | -    | ActivityNet | 8.83% error (iBUG)
+UCF101  | [PDF][p1] | [Link][l1] | human action | 13,320 | 101 | <10s | UCF | 98% (DeepMind I3D)
+HMDB51  | [PDF][p2] | [Link][l2] | human action | 6,766 | 51 | <10s | SERRE LAB, Brown | -
+ActivityNet| [PDF][p8] | [Link][l8] | human activities | ~20,000 | 200 | - | ActivityNet | 8.83% err (iBUG)
 Charades | [PDF][p4] | [Link][l4] | daily human activities | 9,848 | 157 | - | AI2 | -
-Kinetics | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s    | DeepMind  | -
+Kinetics | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s  | DeepMind  | -
 Sports-1M | [PDF][p5] | [Link][l5] | sports | ~1 million | 478 | 5m36s | Google & Stanford | -
 YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500s | Google Cloud | 85% GAP (WILLOW)
 FCVID | [PDF][p9] | [Link][l9] | visual contents |  91,223 | 239 | 100s+ | Fudan-Columbia | - 
@@ -21,7 +21,10 @@ Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339
 ## Video Captioning 
 
 ## Video Question Answering 
-
+Dataset | Paper | Website | Task | #Examples | Organizer | SOTA performance
+--------|-------|---------|----------|-----------|-----------|-----------------
+MovieQA |[PDF][q1]| [Link][a1] | question-answering in movies | 408 movies & 14944 QAs| UToronto | -
+MarioQA |[PDF][q2]| [Link][a2] | reasoning events in game videos | 187,757 examples with 92,874 QAs| POSTECH | -
 
 [p1]: http://crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf
 [l1]: http://crcv.ucf.edu/data/UCF101.php
@@ -43,3 +46,8 @@ Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339
 [l9]: http://bigvid.fudan.edu.cn/FCVID/
 [p10]: https://arxiv.org/abs/1706.04261
 [l10]: https://www.twentybn.com/datasets/something-something
+
+[q1]: http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf
+[a1]: http://movieqa.cs.toronto.edu/home/
+[q2]: https://arxiv.org/abs/1612.01669
+[a2]: http://cvlab.postech.ac.kr/research/MarioQA/
