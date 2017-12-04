@@ -19,6 +19,12 @@ Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339
 ## Temporal Action Detection
 
 ## Video Captioning 
+Dataset | Paper | Website | Context | #Examples | Organizer | SOTA performance
+--------|-------|---------|----------|-----------|-----------|-----------------
+MPII-MD |[PDF][v2]| [Link][c2] | movie | 68,337 clips with 68,375 sentences| MSR | -
+MSR-VTT |[PDF][v1]| [Link][c1] | 20 categories| 10,000 clips wth 200,000 sentences| MPII | -
+Charades |[PDF][p4]| [Link][l4] | human activity| 9,848 clips wth 27,847 sentences| AI2 | -
+Densevid |[PDF][v3]| [Link][c3] | event | 20k clips and 100k sentences | Stanford, ActivityNet | -
 
 ## Video Question Answering 
 Dataset | Paper | Website | Task | #Examples | Organizer | SOTA performance
@@ -46,6 +52,13 @@ MarioQA |[PDF][q2]| [Link][a2] | reasoning events in game videos | 187,757 examp
 [l9]: http://bigvid.fudan.edu.cn/FCVID/
 [p10]: https://arxiv.org/abs/1706.04261
 [l10]: https://www.twentybn.com/datasets/something-something
+
+[v1]: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf
+[c1]: http://ms-multimedia-challenge.com/2017/
+[v2]: https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rohrbach_A_Dataset_for_2015_CVPR_paper.pdf
+[c2]: https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/mpii-movie-description-dataset/
+[v3]: https://arxiv.org/abs/1705.00754
+[c3]: https://cs.stanford.edu/people/ranjaykrishna/densevid/
 
 [q1]: http://movieqa.cs.toronto.edu/static/files/CVPR2016_MovieQA.pdf
 [a1]: http://movieqa.cs.toronto.edu/home/
