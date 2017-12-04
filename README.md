@@ -6,11 +6,12 @@ Dataset | Paper | Website | Category | #Examples |#Classes | Duration | Organize
 --------|-------|---------|----------|-----------|---------|----------|-----------|-----------------
 UCF101  | [PDF][p1] | [Link][l1] | human action | 13,320 | 101 | <10s    | UCF       | 98% (DeepMind I3D)
 HMDB51  | [PDF][p2] | [Link][l2] | human action | 6,766 | 51 | <10s    | SERRE LAB, Brown | -
+ActivityNet| [PDF][p8] | [Link][l8] | human activities | ~20,000 | 200 | -    | ActivityNet | 8.83% error (iBUG)
 Charades | [PDF][p4] | [Link][l4] | daily human activities | 9,848 | 157 | - | AI2 | -
 Kinetics | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s    | DeepMind  | -
 Sports-1M | [PDF][p5] | [Link][l5] | sports | ~1 million | 478 | 5m36s | Google & Stanford | -
-YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500 | Google Cloud | 85% GAP (WILLOW)
-Moments in Time | [PDF][p7] | [Link][l7] | action | ~1 million |  | 3s | MIT-IBM Watson | -
+YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500s | Google Cloud | 85% GAP (WILLOW)
+Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339 | 3s | MIT-IBM Watson | -
 
 
 ## Temporal Action Detection
@@ -34,3 +35,5 @@ Moments in Time | [PDF][p7] | [Link][l7] | action | ~1 million |  | 3s | MIT-IBM
 [l6]: https://research.google.com/youtube8m/
 [p7]: http://moments.csail.mit.edu/data/moments_paper.pdf
 [l7]: http://moments.csail.mit.edu/
+[p8]: https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf
+[l8]: http://activity-net.org/index.html
