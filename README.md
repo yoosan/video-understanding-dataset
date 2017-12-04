@@ -12,7 +12,7 @@ Kinetics | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s    | De
 Sports-1M | [PDF][p5] | [Link][l5] | sports | ~1 million | 478 | 5m36s | Google & Stanford | -
 YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500s | Google Cloud | 85% GAP (WILLOW)
 FCVID | [PDF][p9] | [Link][l9] | visual contents |  91,223 | 239 | 100s+ | Fudan-Columbia | - 
-Something-Something | [PDF][p10] | [Link][l10] | human actiun with objects |  108,499 | 174 | ~4s | TwentyBN | - 
+Something-Something | [PDF][p10] | [Link][l10] | action with objects |  108,499 | 174 | ~4s | TwentyBN | - 
 Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339 | 3s | MIT-IBM Watson | -
 
 
