@@ -4,9 +4,10 @@
 
 Dataset | Paper | Website | Category | #Examples |#Classes | Duration | Organizer | SOTA performance
 --------|-------|---------|----------|-----------|---------|----------|-----------|-----------------
-UCF101  | [paper][1] | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
-UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
-UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
+UCF101  | [PDF][p1] | [Link][l1] | Human action | 13320 | 101 | < 10s    | UCF       | 98% (DeepMind I3D)
+UCF101  | [PDF][p1] | [Link][l1] | Human action | 13320 | 101 | < 10s    | UCF       | 98% (DeepMind I3D)
+UCF101  | [PDF][p1] | [Link][l1] | Human action | 13320 | 101 | < 10s    | UCF       | 98% (DeepMind I3D)
+
 
 
 
@@ -17,4 +18,5 @@ UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 9
 ## Video Question Answering 
 
 
-[1]:http://crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf
+[p1]:http://crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf
+[l1]: http://crcv.ucf.edu/data/UCF101.php
