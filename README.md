@@ -11,6 +11,7 @@ Charades | [PDF][p4] | [Link][l4] | daily human activities | 9,848 | 157 | - | A
 Kinetics | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s    | DeepMind  | -
 Sports-1M | [PDF][p5] | [Link][l5] | sports | ~1 million | 478 | 5m36s | Google & Stanford | -
 YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500s | Google Cloud | 85% GAP (WILLOW)
+FCVID | [PDF][p9] | [Link][l9] | visual contents |  91,223 | 239 | 100s+ | Fudan-Columbia | - 
 Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339 | 3s | MIT-IBM Watson | -
 
 
@@ -37,3 +38,5 @@ Moments in Time | [PDF][p7] | [Link][l7] | action or activity | ~1 million | 339
 [l7]: http://moments.csail.mit.edu/
 [p8]: https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Heilbron_ActivityNet_A_Large-Scale_2015_CVPR_paper.pdf
 [l8]: http://activity-net.org/index.html
+[p9]: https://arxiv.org/abs/1502.07209
+[l9]: http://bigvid.fudan.edu.cn/FCVID/
