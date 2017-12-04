@@ -1,11 +1,14 @@
 # video-understanding-dataset
 
 ## Video Classification
-Formatted as 
-`` Dataset name, paper, website, category, num of classes, duration, organizer, SOTA performance.
-``
-+ UCF101, paper[], link[], human action, 101, <10s, UCF, 98% (Deepmind I3D).
-+
+
+Dataset | Paper | Website | Category | Num of classes | Duration | Organizer | SOTA performance
+--------|-------|---------|----------|----------------|----------|-----------|-----------------
+UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
+UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
+UCF101  | paper | link    | Human action | 101        | < 10s    | UCF       | 98% (DeepMind I3D)
+
+
 
 ## Temporal Action Detection
 
