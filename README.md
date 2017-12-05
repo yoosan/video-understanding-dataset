@@ -25,8 +25,8 @@ ActivityNet(v1.3) | [PFD][p8] | [Link][l8] | ~20,000 | ActivityNet| 0.344(SJTU &
 ## Video Captioning 
 Dataset | Paper | Website | Context | #Examples | Organizer | SOTA performance
 --------|-------|---------|----------|-----------|-----------|-----------------
-MPII-MD |[PDF][v2]| [Link][c2] | movie | 68,337 clips with 68,375 sentences| MSR | -
-MSR-VTT |[PDF][v1]| [Link][c1] | 20 categories| 10,000 clips wth 200,000 sentences| MPII | -
+MPII-MD |[PDF][v2]| [Link][c2] | movie | 68,337 clips with 68,375 sentences| MPII | -
+MSR-VTT |[PDF][v1]| [Link][c1] | 20 categories| 10,000 clips wth 200,000 sentences| MSR | -
 Charades |[PDF][p4]| [Link][l4] | human activity| 9,848 clips wth 27,847 sentences| AI2 | -
 Densevid |[PDF][v3]| [Link][c3] | event | 20k clips and 100k sentences | Stanford, ActivityNet | -
 
