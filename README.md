@@ -28,12 +28,12 @@ ActivityNet(v1.3) | [PDF][p8] | [Link][l8] | ~20,000 | ActivityNet| 0.344(SJTU &
 ## Spatio-temporally Localized Atomic Visual Actions
 Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
 --------|-------|---------|-----------|-----------|-----------|-----------------
-**AVA** | [arXiv][s1] | [Link][t1] | 57.6k | 80 | Google | -
+**AVA** | [arXiv][s1] | [Link][t1] | 57.6k | 80 | Google & Berkeley| -
 
 ## Hand Gestures in Videos
 Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
 --------|-------|---------|-----------|-----------|-----------|-----------------
-Jester | - | [Link](https://www.twentybn.com/datasets/jester) |  148,092  | 27 | TwentyBN | 95.34%(Ke Yang, NUDT_PDL)
+Jester | - | [Link][h1]  |  148,092  | 27 | TwentyBN | 95.34%(Ke Yang, NUDT_PDL)
 
 ## Video Captioning 
 Dataset | Paper | Website | Context | #Examples | Organizer | SOTA performance
@@ -75,6 +75,8 @@ MarioQA |[PDF][q2]| [Link][a2] | reasoning events in game videos | 187,757 examp
 
 [t1]: http://crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf
 [d1]: http://crcv.ucf.edu/THUMOS14/download.html
+
+[h1]: https://www.twentybn.com/datasets/jester
 
 [s1]: https://arxiv.org/abs/1705.08421
 [t1]: https://research.google.com/ava/index.html
