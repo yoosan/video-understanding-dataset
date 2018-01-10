@@ -25,15 +25,15 @@ Dataset | Paper | Website | #Examples | Organizer | SOTA performance
 THUMOS2014 | [PDF][t1] | [Link][d1] | 9.682 | UCF| -
 ActivityNet(v1.3) | [PDF][p8] | [Link][l8] | ~20,000 | ActivityNet| 0.344(SJTU & Columbia )
 
-## Hand Gestures in Videos
-Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
---------|-------|---------|-----------|-----------|-----------|-----------------
-Jester | - | [Link](https://www.twentybn.com/datasets/jester) |  148,092  | 27 | TwentyBN | 95.34%(Ke Yang, NUDT_PDL)
-
 ## Spatio-temporally Localized Atomic Visual Actions
 Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
 --------|-------|---------|-----------|-----------|-----------|-----------------
 **AVA** | [arXiv][s1] | [Link][t1] | 57.6k | 80 | Google | -
+
+## Hand Gestures in Videos
+Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
+--------|-------|---------|-----------|-----------|-----------|-----------------
+Jester | - | [Link](https://www.twentybn.com/datasets/jester) |  148,092  | 27 | TwentyBN | 95.34%(Ke Yang, NUDT_PDL)
 
 ## Video Captioning 
 Dataset | Paper | Website | Context | #Examples | Organizer | SOTA performance
