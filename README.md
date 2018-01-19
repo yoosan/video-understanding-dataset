@@ -2,7 +2,7 @@
 
 **Please feel free to pull a request.**
 
-**Note: ActivityNet v1.3, Kinetics, Moments in time, AVA will be used at [ActivityNet challenge 2018](http://activity-net.org/challenges/2018/)**
+**Note: ActivityNet v2.0, Kinetics, Moments in time, AVA will be used at [ActivityNet challenge 2018](http://activity-net.org/challenges/2018/)**
 
 ## Video Classification
 Dataset | Paper | Website | Category | #Examples |#Classes | Duration | Organizer | SOTA performance
