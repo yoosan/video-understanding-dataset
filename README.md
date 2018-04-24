@@ -2,7 +2,7 @@
 
 **Please feel free to pull a request.**
 
-**Note: ActivityNet v2.0, Kinetics, Moments in time, AVA will be used at [ActivityNet challenge 2018](http://activity-net.org/challenges/2018/)**
+**Note: ActivityNet v1.3, Kinetics-600, Moments in time, AVA will be used at [ActivityNet challenge 2018](http://activity-net.org/challenges/2018/)**
 
 ## Video Classification
 Dataset | Paper | Website | Category | #Examples |#Classes | Duration | Organizer | SOTA performance
@@ -11,7 +11,7 @@ UCF101  | [PDF][p1] | [Link][l1] | human action | 13,320 | 101 | <10s | UCF | 98
 HMDB51  | [PDF][p2] | [Link][l2] | human action | 6,766 | 51 | <10s | Brown | 80.7% (DeepMind I3D)
 **ActivityNet v1.3**| [PDF][p8] | [Link][l8] | human activities | ~20,000 | 200 | - | ActivityNet | 8.83% err (iBUG)
 Charades | [PDF][p4] | [Link][l4] | daily human activities | 9,848 | 157 | - | AI2 | 0.3441 mAP (DeepMind I3D)
-**Kinetics** | [PDF][p3] | [Link][l3] | human action | ~300,000 | 400 |  10s  | DeepMind  | -
+**Kinetics** | [PDF][p3] | [Link][l3] | human action | ~500,000 | 600 |  10s  | DeepMind  | -
 Sports-1M | [PDF][p5] | [Link][l5] | sports | ~1 million | 478 | 5m36s | Google & Stanford | -
 YouTube-8M | [PDF][p6] | [Link][l6] | visual contents | ~7 million | 4716 | 120-500s | Google Cloud | 85% GAP (WILLOW)
 FCVID | [PDF][p9] | [Link][l9] | visual contents |  91,223 | 239 | 100s+ | Fudan-Columbia | - 
