@@ -24,7 +24,7 @@ Dataset | Paper | Website | #Examples | Organizer | SOTA performance
 --------|-------|---------|-----------|-----------|-----------------
 THUMOS2014 | [PDF][t1] | [Link][d1] | 9.682 | UCF| -
 ActivityNet(v1.3) | [PDF][p8] | [Link][l8] | ~20,000 | ActivityNet| 0.344(SJTU & Columbia )
-Broad Video Highlights | - | [Link][d2] | 18000 | Baidu | -
+ Broad Video Highlights | - | [Link][d2] | 18000 | Baidu | -
 
 ## Spatio-temporally Localized Atomic Visual Actions
 Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
