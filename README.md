@@ -24,6 +24,7 @@ Dataset | Paper | Website | #Examples | Organizer | SOTA performance
 --------|-------|---------|-----------|-----------|-----------------
 THUMOS2014 | [PDF][t1] | [Link][d1] | 9.682 | UCF| -
 ActivityNet(v1.3) | [PDF][p8] | [Link][l8] | ~20,000 | ActivityNet| 0.344(SJTU & Columbia )
+Broad Video Highlights | - | [Link][d2] | 18000 | Baidu | -
 
 ## Spatio-temporally Localized Atomic Visual Actions
 Dataset | Paper | Website | #Examples |  #Classes | Organizer | SOTA performance
@@ -75,6 +76,7 @@ MarioQA |[PDF][q2]| [Link][a2] | reasoning events in game videos | 187,757 examp
 
 [t1]: http://crcv.ucf.edu/papers/UCF101_CRCV-TR-12-01.pdf
 [d1]: http://crcv.ucf.edu/THUMOS14/download.html
+[d2]: http://ai.baidu.com/broad/introduction?dataset=video
 
 [h1]: https://www.twentybn.com/datasets/jester
 
